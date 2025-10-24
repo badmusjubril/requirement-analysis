@@ -47,6 +47,9 @@ Represent high-level objectives of the organization.Focus on business goals and 
 
 
 A Use Case Diagram is a type of Unified Modeling Language (UML) diagram that visually represents the interactions between actors (users or external systems) and a system to achieve specific goals. It focuses on what the system should do rather than how it does it
+https://drive.google.com/file/d/12-poOgh9OsCOaBeUKgdK_9dFTmelY5C6/view?usp=sharin
+<img width="869" height="371" alt="_alx-booking-uc drawio" src="https://github.com/user-attachments/assets/492d45de-85b0-4646-818d-ce61b0b495b7" />
+
 
 Benefits of Use Case Diagrams
 
